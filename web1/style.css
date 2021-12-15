@@ -1,0 +1,20 @@
+/*clase universal*/
+p.green{
+    color: green;
+}
+span.red{
+    color: red;
+}
+p.especial1 {
+    font-weight: bold;
+    
+    color: red;
+  }
+  p.especial2 {
+      font-weight: bold;
+      color: yellow;
+
+  }
+.especial3 {
+    color: indigo;
+}
